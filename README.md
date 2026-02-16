@@ -14,4 +14,4 @@ docker run -p 5000:5000 myflaskapp
 
 ## Access
 
-http://54.159.6.183:5000
+http://IP:5000
